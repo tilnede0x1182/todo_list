@@ -1,3 +1,3 @@
 # todo_list
 
-Todo-list en Javascript
+Todo-list basique en Javascript front-end
